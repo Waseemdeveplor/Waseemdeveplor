@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
 <h3 align="center">PHP & Laravel Developer | Skilled in Core PHP, Advanced Laravel Features, and Web Application Development</h3>
 
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/08/30/01/17/business-2697178_960_720.jpg" alt="Web Developer Animation" width="300"/>
-</p>
+ <p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFrd24wdHNnc2t3eHh1eXR2c3Vpc2VwaHYwYnM4ejN3Y2k5eHNjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-waseemdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="m-waseemdeveloper" /> </p>
 
