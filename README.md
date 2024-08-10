@@ -1,4 +1,4 @@
-# ![Banner Image](https://via.placeholder.com/1200x400?text=Your+Banner+Image+Here)
+[![MasterHead](https://www.cdmi.in/courses@2x/web-developments.webp)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
 <h3 align="center">PHP & Laravel Developer | Skilled in Core PHP, Advanced Laravel Features, and Web Application Development</h3>
