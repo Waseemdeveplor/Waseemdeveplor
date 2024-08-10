@@ -46,4 +46,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-waseemdeveloper&show_icons=true&locale=en&layout=compact" alt="m-waseemdeveloper" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-waseemdeveloper&" alt="m-waseemdeveloper" /></p>
+ 
