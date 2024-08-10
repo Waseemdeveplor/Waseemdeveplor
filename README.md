@@ -22,10 +22,7 @@
 - ⚡ Fun fact **I once built a full-featured web application from scratch in under a week as part of a hackathon challenge!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmad-saleem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-</p>
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
